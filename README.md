@@ -1,16 +1,24 @@
 # About me
 
-I'm a web developer doing mostly frontend stuff. You won't find a lot here as my client work is mostly confidential.
+👋 I'm a web developer doing mostly frontend stuff. You won't find a lot here as my client work is mostly confidential.
 
-# Tech stack
+## Tech stack
 
 * JavaScript / ES6 - ESx
 * TypeScript
 * React
 * GraphQL
-* AWS & Netlify
+* Styled Components & SCSS
 
-# Links
+## I work with…
+
+* Visual Studio Code
+* iTerm
+* GitLab CI / CD
+* AWS & Netlify CLI
+* Scrum (certified)
+
+## Links
 
 * [rademacher.digital](http://rademacher.digital)
 * [@wheelmaker24](http://www.twitter.com/wheelmaker24)
